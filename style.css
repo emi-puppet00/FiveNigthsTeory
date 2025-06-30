@@ -1,6 +1,6 @@
 body {
 color:rgb(0, 0, 0);
-background:rgb(176, 94, 254);
+background:rgb(166, 92, 235);
 margin: 0px;
 }
 
@@ -11,7 +11,7 @@ font-size: 32px;
 color: rgb(0, 0, 0);
 }
 section {
-background: rgb(184,156,213);
+background: rgb(203, 177, 230);
 padding-bottom: 80px;
 padding-top: 80px;
 display: flex;
