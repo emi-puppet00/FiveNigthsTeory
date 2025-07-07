@@ -1,7 +1,9 @@
 body {
 color:rgb(0, 0, 0);
 background:rgb(166, 92, 235);
-margin: 0px;
+margin: 0px; 
+
+ font-family: "Manufacturing Consent", system-ui;
 }
 
 header {
@@ -20,4 +22,12 @@ justify-content: center;
 
 .chamada-texto {
 margin-right: 5%;
+
+}
+
+h1{
+    font-size: 40px;
+}
+p{
+    font-size: 20px;
 }
