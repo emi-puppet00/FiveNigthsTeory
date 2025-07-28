@@ -13,7 +13,7 @@ font-size: 32px;
 color: rgb(0, 0, 0);
 }
 section {
-background: rgb(217, 182, 255);
+background: rgba(211, 176, 248, 1);
 padding-bottom: 80px;
 padding-top: 80px;
 display: flex;
